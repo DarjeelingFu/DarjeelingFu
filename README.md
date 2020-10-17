@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Java learing**
 - 🌱 I’m currently learning **Jekyll Blog** and **Java**
