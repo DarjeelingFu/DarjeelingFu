@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🌱 I’m currently learning **Jekyll Blog** and **Java**
+I thought what I`d do was I’d pretend I was one of those deaf-mutes, or should I?
